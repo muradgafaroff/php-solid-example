@@ -8,7 +8,6 @@
 
 // BAD CODE
 
-
 // Burada Order interfeysi 3 metod ehtiva edir:
 // - calculateTotalPrice()
 // - downloadOrder()
